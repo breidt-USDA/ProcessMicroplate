@@ -47,7 +47,11 @@ For an example, see file EX240513_C1C2.csv
 The output data files may be opened directly in MS Excel (as .csv file) for further processing. Graphs may be copied to Microsoft Word, PowerPoint or other software using the MS Windows clipboard.   
 
 References: 
+
 Atolia E, Cesar S, Arjes HA, Rajendram M, Shi H, Knapp BD, Khare S, Aranda-Díaz A, Lenski RE, Huang KC. 2020. Environmental and physiological factors affecting high-throughput measurements of bacterial growth. mBio. 11(5):e01378-20. https://doi.org/10.1128/mBio.01378-201
+
 Begot C, Desnier I, Daudin JD, Labadie JC, Lebert A. 1996. Recommendations for calculating growth parameters by optical density measurements. J Microbiol Meth 25(3):225-232. https://doi.org/10.1016/0167-7012(95)00090-9
+
 Breidt F, Romick TL, Fleming HP. 1994. A rapid method for the determination of bacterial growth kinetics. J Rapid Methods Autom Microbiol 3(1):59-68. https://doi.org/10.1111/j.1745-4581.1994.tb00308.x
+
 Zwietering MH, Jongenburger I, Rombouts FM, van't Tiet K. 1990. Modeling the bacterial growth curve. Appl Env Microbiol 56(6):1875-1881. https://doi.org/10.1128/aem.56.6.1875-1881.1990
